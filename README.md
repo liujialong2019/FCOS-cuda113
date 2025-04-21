@@ -1,8 +1,4 @@
-以下是你需要的 Windows 环境下使用的 markdown 标志文件，说明如何下载 FCOS 源码并进行适配编译。你可以保存为 README.md 或其他 .md 文件格式使用：
 
-markdown
-复制
-编辑
 # Windows 环境下编译 FCOS（适配 Python 3.7.16 + PyTorch 1.7.1 + CUDA 11.3）
 
 本指南用于在 Windows 环境下从源码编译 [FCOS](https://github.com/tianzhi0549/FCOS)，并适配以下特定配置：
